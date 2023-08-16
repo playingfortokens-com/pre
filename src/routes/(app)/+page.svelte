@@ -1,1 +1,1 @@
-<h1>Welcome to a SvelteKit + Pocketbase OAuth2 Demo</h1>
+<h1>Playing For Tokens</h1>
